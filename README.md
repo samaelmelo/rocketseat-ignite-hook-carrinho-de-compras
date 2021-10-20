@@ -15,7 +15,8 @@
 </p>
 
 <img align="center" src="./src/assets/ReadME/RocketShoesApp.png" slt="RocketShoes" />
-<img align="center" src="./src/assets/ReadME/RocketShoesTable.png" slt="RocketShoes" />
+
+<p><img align="center" src="./src/assets/ReadME/RocketShoesTable.png" slt="RocketShoes" /></p>
 
 ## 💻 Project
 
